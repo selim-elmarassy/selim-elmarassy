@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Selim 
 
-<!--
-**selim-elmarassy/selim-elmarassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student who codes websites, writes Python, and makes games in LÖVE2D.
 
-Here are some ideas to get you started:
+##  What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web:** HTML, CSS
+- **Languages:** Python, Lua
+- **Game Dev:** LÖVE2D
+- Currently leveling up my Python skills
+
+##  What I'm into
+
+I like building small games and experimenting with LÖVE2D, alongside writing front-end code with HTML/CSS. Always learning, always building something.
+
+
+---
+⭐️ Currently exploring new projects — check out my pinned repos below!
