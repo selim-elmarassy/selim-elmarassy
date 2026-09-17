@@ -1,6 +1,6 @@
 # Hey, I'm Selim 
 
-CS student who codes websites, writes Python, and makes games in LÖVE2D.
+High School CS student who codes websites, writes Python, and makes games in LÖVE2D.
 
 ##  What I work with
 
