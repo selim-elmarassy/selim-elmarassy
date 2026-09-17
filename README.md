@@ -7,7 +7,7 @@ CS student who codes websites, writes Python, and makes games in LÖVE2D.
 - **Web:** HTML, CSS
 - **Languages:** Python, Lua
 - **Game Dev:** LÖVE2D
-- Currently leveling up my Python skills
+- Currently working on my Python skills
 
 ##  What I'm into
 
